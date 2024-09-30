@@ -1,0 +1,9 @@
+Contato FERNANDO com ID 4 excluído em 30/09/2024 09:43:05.
+Contato carlos com ID 1 excluído em 30/09/2024 09:43:23.
+Contato cesar com ID 5 excluído em 30/09/2024 09:45:01.
+Contato julio com ID 2 excluído em 30/09/2024 09:45:05.
+Contato LUCAS com ID 3 excluído em 30/09/2024 09:45:06.
+Contato lucas com ID 2 excluído em 30/09/2024 09:53:39.
+Contato carlos eduardo com ID 2 excluído em 30/09/2024 10:03:01.
+Contato lucas silva com ID 1 excluído em 30/09/2024 10:03:08.
+Contato carlos com ID 3 excluído em 30/09/2024 10:03:50.

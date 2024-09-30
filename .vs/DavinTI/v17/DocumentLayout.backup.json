@@ -3,6 +3,34 @@
   "WorkspaceRootPath": "C:\\Projetos\\C#\\DavinTI\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{E7A4E9DE-6C85-40C0-8444-02511F1689B5}|DavinTI.csproj|c:\\projetos\\c#\\davinti\\wwwroot\\css\\stylesheet.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{E7A4E9DE-6C85-40C0-8444-02511F1689B5}|DavinTI.csproj|solutionrelative:wwwroot\\css\\stylesheet.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7A4E9DE-6C85-40C0-8444-02511F1689B5}|DavinTI.csproj|c:\\projetos\\c#\\davinti\\views\\contatos\\search.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E7A4E9DE-6C85-40C0-8444-02511F1689B5}|DavinTI.csproj|solutionrelative:views\\contatos\\search.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7A4E9DE-6C85-40C0-8444-02511F1689B5}|DavinTI.csproj|c:\\projetos\\c#\\davinti\\views\\contatos\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E7A4E9DE-6C85-40C0-8444-02511F1689B5}|DavinTI.csproj|solutionrelative:views\\contatos\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7A4E9DE-6C85-40C0-8444-02511F1689B5}|DavinTI.csproj|c:\\projetos\\c#\\davinti\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E7A4E9DE-6C85-40C0-8444-02511F1689B5}|DavinTI.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7A4E9DE-6C85-40C0-8444-02511F1689B5}|DavinTI.csproj|c:\\projetos\\c#\\davinti\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{E7A4E9DE-6C85-40C0-8444-02511F1689B5}|DavinTI.csproj|solutionrelative:wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7A4E9DE-6C85-40C0-8444-02511F1689B5}|DavinTI.csproj|c:\\projetos\\c#\\davinti\\views\\contatos\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E7A4E9DE-6C85-40C0-8444-02511F1689B5}|DavinTI.csproj|solutionrelative:views\\contatos\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7A4E9DE-6C85-40C0-8444-02511F1689B5}|DavinTI.csproj|c:\\projetos\\c#\\davinti\\controllers\\contatoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7A4E9DE-6C85-40C0-8444-02511F1689B5}|DavinTI.csproj|solutionrelative:controllers\\contatoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{E7A4E9DE-6C85-40C0-8444-02511F1689B5}|DavinTI.csproj|c:\\projetos\\c#\\davinti\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E7A4E9DE-6C85-40C0-8444-02511F1689B5}|DavinTI.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -18,24 +46,115 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\Projetos\\C#\\DavinTI\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Projetos\\C#\\DavinTI\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "wwwroot\\css\\site.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-09-30T12:54:52.943Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Projetos\\C#\\DavinTI\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Projetos\\C#\\DavinTI\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-30T12:50:18.12Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "StyleSheet.css",
+              "DocumentMoniker": "C:\\Projetos\\C#\\DavinTI\\wwwroot\\css\\StyleSheet.css",
+              "RelativeDocumentMoniker": "wwwroot\\css\\StyleSheet.css",
+              "ToolTip": "C:\\Projetos\\C#\\DavinTI\\wwwroot\\css\\StyleSheet.css*",
+              "RelativeToolTip": "wwwroot\\css\\StyleSheet.css*",
+              "ViewState": "AgIAAEIAAAAAAAAAAAAAADsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-09-30T12:49:46.345Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Search.cshtml",
+              "DocumentMoniker": "C:\\Projetos\\C#\\DavinTI\\Views\\Contatos\\Search.cshtml",
+              "RelativeDocumentMoniker": "Views\\Contatos\\Search.cshtml",
+              "ToolTip": "C:\\Projetos\\C#\\DavinTI\\Views\\Contatos\\Search.cshtml",
+              "RelativeToolTip": "Views\\Contatos\\Search.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-30T12:36:09.076Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Projetos\\C#\\DavinTI\\Views\\Contatos\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Contatos\\Index.cshtml",
+              "ToolTip": "C:\\Projetos\\C#\\DavinTI\\Views\\Contatos\\Index.cshtml",
+              "RelativeToolTip": "Views\\Contatos\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-30T12:35:43.431Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ContatosController.cs",
+              "DocumentMoniker": "C:\\Projetos\\C#\\DavinTI\\Controllers\\ContatosController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ContatosController.cs",
+              "ToolTip": "C:\\Projetos\\C#\\DavinTI\\Controllers\\ContatosController.cs",
+              "RelativeToolTip": "Controllers\\ContatosController.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAcwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T12:35:18.684Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Projetos\\C#\\DavinTI\\Views\\Contatos\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Views\\Contatos\\Delete.cshtml",
+              "ToolTip": "C:\\Projetos\\C#\\DavinTI\\Views\\Contatos\\Delete.cshtml",
+              "RelativeToolTip": "Views\\Contatos\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-30T12:35:06.994Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Projetos\\C#\\DavinTI\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "C:\\Projetos\\C#\\DavinTI\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAABAAAAAAAAAAAAAgwB8AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-29T23:57:00.507Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 8,
               "Title": "launchSettings.json",
               "DocumentMoniker": "C:\\Projetos\\C#\\DavinTI\\Properties\\launchSettings.json",
               "RelativeDocumentMoniker": "Properties\\launchSettings.json",
@@ -43,8 +162,7 @@
               "RelativeToolTip": "Properties\\launchSettings.json",
               "ViewState": "AgIAAA8AAAAAAAAAAAAAABwAAAAGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-09-29T23:52:48.319Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-29T23:52:48.319Z"
             }
           ]
         }

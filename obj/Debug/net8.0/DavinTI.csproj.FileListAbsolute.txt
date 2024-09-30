@@ -26,3 +26,4 @@ C:\Projetos\C#\DavinTI\obj\Debug\net8.0\refint\DavinTI.dll
 C:\Projetos\C#\DavinTI\obj\Debug\net8.0\DavinTI.pdb
 C:\Projetos\C#\DavinTI\obj\Debug\net8.0\DavinTI.genruntimeconfig.cache
 C:\Projetos\C#\DavinTI\obj\Debug\net8.0\ref\DavinTI.dll
+C:\Projetos\C#\DavinTI\obj\Debug\net8.0\DavinTI.sourcelink.json

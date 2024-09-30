@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "N+hVkXvtqHBWpfpD+GWoBKTqjPI+1eI+rovCnCnFmKc=",
+  "Hash": "rw93Eeg0CgZD2q69kYzeBiYgSH25rtqDXsv5i4Ndspk=",
   "Source": "DavinTI",
   "BasePath": "_content/DavinTI",
   "Mode": "Default",
@@ -72,6 +72,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\css\\site.css"
+    },
+    {
+      "Identity": "C:\\Projetos\\C#\\DavinTI\\wwwroot\\css\\StyleSheet.css",
+      "SourceId": "DavinTI",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Projetos\\C#\\DavinTI\\wwwroot\\",
+      "BasePath": "_content/DavinTI",
+      "RelativePath": "css/StyleSheet.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\StyleSheet.css"
     },
     {
       "Identity": "C:\\Projetos\\C#\\DavinTI\\wwwroot\\favicon.ico",
