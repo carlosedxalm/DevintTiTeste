@@ -1,0 +1,10 @@
+﻿@model DavinTI.Models.Contato
+
+<h2>Excluir Contato</h2>
+
+<p>Tem certeza que deseja excluir o contato @Model.Nome?</p>
+
+<form asp-action="DeleteConfirmed" method="post">
+    <input type="hidden" asp-for="Id" />
+    <button type="submit">Confirmar</button>
+</form>

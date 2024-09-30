@@ -1,0 +1,19 @@
+﻿@model DavinTI.Models.Contato
+
+<h2>Adicionar Contato</h2>
+
+<form asp-action="Create">
+    <div>
+        <label>Nome:</label>
+        <input asp-for="Nome" />
+    </div>
+    <div>
+        <label>Idade:</label>
+        <input asp-for="Idade" type="number" />
+    </div>
+    <div>
+        <label>Telefones:</label>
+        <input name="telefones" />
+    </div>
+    <button type="submit">Salvar</button>
+</form>

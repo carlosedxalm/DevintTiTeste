@@ -1,0 +1,36 @@
+﻿@model List<DavinTI.Models.Contato>
+
+<h2>Pesquisar Contatos</h2>
+
+<form asp-action="Search">
+    <div>
+        <label>Nome:</label>
+        <input type="text" name="nome" />
+    </div>
+    <div>
+        <label>Telefone:</label>
+        <input type="text" name="telefone" />
+    </div>
+    <button type="submit">Pesquisar</button>
+</form>
+
+<table>
+    <tr>
+        <th>Nome</th>
+        <th>Idade</th>
+        <th>Telefones</th>
+        <th>Ações</th>
+    </tr>
+    @foreach (var contato in Model)
+    {
+        <tr>
+            <td>@contato.Nome</td>
+            <td>@contato.Idade</td>
+            <td>@string.Join(", ", contato.Telefones)</td>
+            <td>
+                <a asp-action="Edit" asp-route-id="@contato.Id">Editar</a> |
+                <a asp-action="Delete" asp-route-id="@contato.Id">Excluir</a>
+            </td>
+        </tr>
+    }
+</table>
